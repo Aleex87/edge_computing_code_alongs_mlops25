@@ -27,3 +27,7 @@ while True:
 #     sleep(.03)
 #     led_2.toggle()
 #     sleep(.03)
+
+# for extract per estrarre il codice da un device posso fare :
+# os.list()
+# open ('nume del file').read()
